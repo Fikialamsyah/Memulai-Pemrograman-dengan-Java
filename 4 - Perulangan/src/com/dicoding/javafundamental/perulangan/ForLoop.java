@@ -1,0 +1,9 @@
+package com.dicoding.javafundamental.perulangan;
+
+public class ForLoop {
+    public static void main(String[] args) {
+        for (int x = 0; x < 3; x++){
+            System.out.println("Hallo");
+        }
+    }
+}
